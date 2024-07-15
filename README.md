@@ -86,4 +86,3 @@ We welcome contributions from the community! To contribute:
 
 ---
 
-Feel free to adjust any sections to better fit the specifics of your EdTech platform.
