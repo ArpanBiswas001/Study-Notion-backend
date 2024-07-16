@@ -20,11 +20,23 @@ Welcome to the EdTech Platform, an innovative solution designed to enhance educa
 
 ## Features
 
-- Interactive lessons with multimedia support
-- Student progress tracking and analytics
-- Collaborative tools for teachers and students
-- Customizable lesson plans and assignments
-- Secure authentication and user management
+user sign up
+user login(student, instructor)
+edit profile
+reset password
+
+instructor:
+	create/upload course(section/subsection)
+	edit course
+	delete course
+student:
+	buy course(RazorPay)
+	access course
+	rating and review
+Admin:
+	create category.
+For file upload- Cloudinary.
+In various steps authorization is there.
 
 ## Installation
 
